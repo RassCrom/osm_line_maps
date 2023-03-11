@@ -7,5 +7,5 @@ Total polylines length - 16 232 581.126 meters
 
 # Almaty poster
 
-![](https://github.com/marceloprates/prettymaps/raw/main/prints/heerhugowaard.png)
+![](https://github.com/RassCrom/osm_line_maps/blob/main/almaty.png)
 
