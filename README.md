@@ -5,5 +5,5 @@ I used Python for making a map using osmnx library. So the source of data is OSM
 ![](https://raw.githubusercontent.com/RassCrom/osm_line_maps/main/coloors.png)
 
 # Road networks of largest KZ cities
-![](https://postimg.cc/G9dW78Rt)
+![](https://i.postimg.cc/PfwdqYFW/final-map.png)
 
