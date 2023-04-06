@@ -1,5 +1,5 @@
 # osm_line_maps
-I used Python for making a map using osmnx library. So the source of data is OSM. Final touches have been done in Figma, just to add text.
+I used Python for making maps using osmnx library. So the source of data is OSM. Final touches have been done in Figma.
 
 # Color palettes
 ![](https://raw.githubusercontent.com/RassCrom/osm_line_maps/main/coloors.png)
